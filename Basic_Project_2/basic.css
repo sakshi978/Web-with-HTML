@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+    color: crimson;
+}
+div {
+    max-width: 120px;
+    margin: auto;
+    max-height: 50px;
+}
+#d1 {
+    color: aqua;
+    background-color: black;
+    text-align: center;
+}
+#d2 {
+    color: darkgrey;
+    background-color: black;
+    text-align: center;
+}
