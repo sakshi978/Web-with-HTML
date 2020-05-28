@@ -1,0 +1,9 @@
+h1 {
+    text-align: left;
+    color: green;
+}
+canvas {
+    width: 350px;
+    height: 250px;
+    border: 1px solid;
+}
